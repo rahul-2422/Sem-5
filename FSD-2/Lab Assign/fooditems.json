@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6371d25da365a86b8cf83488"
+  },
+  "name": "Assorted Mandi",
+  "price": 1700,
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "6371d28ba365a86b8cf8348a"
+  },
+  "name": "Nalli Ghosh Mandi",
+  "price": 1000,
+  "quantity": 7
+},{
+  "_id": {
+    "$oid": "6371d2bfa365a86b8cf8348c"
+  },
+  "name": "Chicken Mandi",
+  "price": 899,
+  "quantity": 4
+},{
+  "_id": {
+    "$oid": "6371d30da365a86b8cf8348e"
+  },
+  "name": "Mutton Mandi",
+  "price": 949,
+  "quantity": 12
+},{
+  "_id": {
+    "$oid": "6371d351a365a86b8cf83490"
+  },
+  "name": "Chicken Biryani",
+  "price": 499,
+  "quantity": 20
+},{
+  "_id": {
+    "$oid": "6371d369a365a86b8cf83492"
+  },
+  "name": "Veg Biryani",
+  "price": 300,
+  "quantity": 10
+}]

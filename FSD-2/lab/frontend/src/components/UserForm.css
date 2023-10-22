@@ -1,0 +1,30 @@
+img{
+    /* display: block; */
+    position: absolute;
+    height: 110vh;
+    width: 100vw;
+    filter: blur(4px);
+    
+}
+
+.form{
+    position: relative;
+    /* background-color: grey; */
+    backdrop-filter: blur(10px);
+    height: 700px;
+    width: 500px;
+    /* border: 1px solid red; */
+    top: 50%;    
+    left: 50%;
+    transform: translate(-50%, 2%);
+    border-radius: 5%;
+    box-shadow: rgba(255, 255, 255, 0.993) 0px 1px 4px 0px, rgba(255, 255, 255, 0.603) 0px 2px 16px 0px;
+}
+
+.textColor{
+    color: white;
+}
+
+.pad{
+    padding: 1em;
+}

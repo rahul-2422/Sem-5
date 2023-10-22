@@ -1,0 +1,110 @@
+
+.footer-container {
+    max-width: 190vh;
+    margin: 20px 0 0 0;
+    /* width: 190vh; */
+    background-color: #24262b;
+    padding: 20px 10px 20px 0;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  .footer-col {
+    width: 45vh;
+    padding: 0 15px;
+  }
+  
+  .footer-col h4 {
+    font-size: 18px;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 35px;
+    font-weight: 500;
+    position: relative;
+    left: 80px;
+    align-items: center;
+    text-align: left;
+  }
+  
+  .footer-col h4::before {
+    content: '';
+    position: absolute;
+    left: 10;
+    bottom: -15px;
+    /* background-color: #e91e63; */
+    background-color: rgb(244, 97, 44);
+    height: 2px;
+    box-sizing: border-box;
+    width: 50px;
+  }
+  
+  .footer-col ul li:not(:last-child) {
+    margin-bottom: 10px;
+  }
+  
+  .footer-col ul li a {
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 300;
+    color: #bbbbbb;
+    display: block;
+    transition: all 0.3s ease;
+    text-align: left;
+    padding-left: 80px
+  }
+  
+  #footer-col-online-shop ul li a {
+    padding-left: 100px;
+  }
+  
+  .footer-col ul li a:hover {
+    color: #ffffff;
+    padding-left: 88px;
+  }
+  
+  #footer-col-online-shop ul li a:hover {
+    padding-left: 108px;
+  }
+  
+  .footer-col .social-links a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 0 10px 10px 0;  
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.5s ease;
+  }
+  
+  .fab{
+    font-size: 14px;
+  }
+  
+  .footer-col .social-links a:hover {
+    color: #24262b;
+    background-color: #ffffff;
+  }
+  
+  .fa-facebook-f,.fa-linkedin-in{
+    color: #5393fa;
+  }
+  
+  .fa-twitter{
+    color: rgba(29,161,242,1.00);
+  }
+  
+  .fa-instagram{
+    color: rgb(189, 63, 84);
+  }

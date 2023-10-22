@@ -1,0 +1,6 @@
+* Disadvantages(cons) of shadow page tables: 
+	- The VMM takes extra load (ie, overhead) because we mark the page tables of the guest os as read only and each time a update occurs the VMM traps are issued which increase the load.
+
+* Event channels in xen hypervisor: 
+	- The events are similar to interrupts in os, they are transmitted through this event channels.
+	- The event notification (ie, equivalant to triggering an interrupt) are recived by the guest OS via and upcall from the Hypervisor.

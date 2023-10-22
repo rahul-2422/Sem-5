@@ -1,0 +1,264 @@
+[{
+  "_id": {
+    "$oid": "6333e753876de9e542e4c5f6"
+  },
+  "name": "apple watch",
+  "description": "sample product",
+  "price": 3000,
+  "ratings": 3.5,
+  "images": [],
+  "category": "Watch",
+  "Stock": 10,
+  "numOfReviews": 2,
+  "user": {
+    "$oid": "6333e62bdb05cc1a2fec7f56"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "6333e62bdb05cc1a2fec7f56"
+      },
+      "name": "Chandra Shekar",
+      "rating": 2,
+      "comment": "A nice product",
+      "_id": {
+        "$oid": "63410e820d157ec75c2bfe11"
+      }
+    },
+    {
+      "user": {
+        "$oid": "633dc380a99ae7520d916171"
+      },
+      "name": "chandra",
+      "rating": 5,
+      "comment": "cool product",
+      "_id": {
+        "$oid": "635e022e45ddae6181adc9c3"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664345939778"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "633b0c8766898e59b289d30a"
+  },
+  "name": "Apple Laptop",
+  "description": "sample product",
+  "price": 20000,
+  "ratings": 0,
+  "images": [],
+  "category": "Laptop",
+  "Stock": 7,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "6333e62bdb05cc1a2fec7f56"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664814215236"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633b0c9f66898e59b289d30d"
+  },
+  "name": "samsung Watch",
+  "description": "sample product",
+  "price": 30000,
+  "ratings": 0,
+  "images": [],
+  "category": "Watch",
+  "Stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "6333e62bdb05cc1a2fec7f56"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664814239978"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633b0caa66898e59b289d310"
+  },
+  "name": "Product 2",
+  "description": "sample product",
+  "price": 30000,
+  "ratings": 0,
+  "images": [],
+  "category": "Laptop",
+  "Stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "6333e62bdb05cc1a2fec7f56"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664814250321"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6341d661d0e9a8d379c31258"
+  },
+  "name": "Product 8",
+  "description": "sample product",
+  "price": 30000,
+  "ratings": 0,
+  "images": [],
+  "category": "Watch",
+  "Stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "6333e62bdb05cc1a2fec7f56"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665259105427"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6341d665d0e9a8d379c3125b"
+  },
+  "name": "Product 9",
+  "description": "sample product",
+  "price": 30000,
+  "ratings": 0,
+  "images": [],
+  "category": "Watch",
+  "Stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "6333e62bdb05cc1a2fec7f56"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665259109871"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6341d66ad0e9a8d379c3125e"
+  },
+  "name": "Product 10",
+  "description": "sample product",
+  "price": 30000,
+  "ratings": 0,
+  "images": [],
+  "category": "Watch",
+  "Stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "6333e62bdb05cc1a2fec7f56"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665259114803"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6341d670d0e9a8d379c31261"
+  },
+  "name": "Product 11",
+  "description": "sample product",
+  "price": 30000,
+  "ratings": 0,
+  "images": [],
+  "category": "Watch",
+  "Stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "6333e62bdb05cc1a2fec7f56"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665259120181"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6341d674d0e9a8d379c31264"
+  },
+  "name": "Product 12",
+  "description": "sample product",
+  "price": 30000,
+  "ratings": 0,
+  "images": [],
+  "category": "Watch",
+  "Stock": 1,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "6333e62bdb05cc1a2fec7f56"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665259124689"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635d3365d27af4120fe406bd"
+  },
+  "name": "Dell laptop",
+  "description": "A good Laptop",
+  "price": 23454,
+  "ratings": 0,
+  "category": "Laptop",
+  "Stock": 4,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "6333e62bdb05cc1a2fec7f56"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667052389285"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635d3393d27af4120fe406cd"
+  },
+  "name": "A sample Laptop",
+  "description": "A sample laptop",
+  "price": 43459,
+  "ratings": 0,
+  "category": "Laptop",
+  "Stock": 5,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "6333e62bdb05cc1a2fec7f56"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667052435261"
+    }
+  },
+  "__v": 0
+}]

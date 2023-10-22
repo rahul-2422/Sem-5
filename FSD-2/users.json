@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "6333e62bdb05cc1a2fec7f56"
+  },
+  "name": "Dinesh",
+  "email": "pvchandu07@gmail.com",
+  "password": "$2a$10$a7zh7872ZLwh.KhGUYGtP.XO/dX5ojAaRI.yyAkR/R4KyGJyFw/06",
+  "role": "admin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664345643857"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633db770a99ae7520d91616e"
+  },
+  "name": "Chandu",
+  "email": "pvchandu@gmail.com",
+  "password": "$2a$10$y2/FQCIclpfApR.653BWQOqmmK3/kIWmA/HYpVlxe1qR63lUvKe0C",
+  "role": "admin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664989040382"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633dc380a99ae7520d916171"
+  },
+  "name": "chandra",
+  "email": "pvc@gmail.com",
+  "password": "$2a$10$H6HneIxPwtS0Jpup0GYesemNRvsxmzs7zCcMC/ZfXn1QwpWGE5ttu",
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664992128466"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "633ecc8d9c1f97a9c31f0b4c"
+  },
+  "name": "Grunt",
+  "email": "chandra788@gmail.com",
+  "password": "$2a$10$slYGV4dUeTPVwjXmcwuU0e4h8CXh32GjCL00JxR4TuwGLWK4KHjf.",
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665059981687"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63412c700d157ec75c2c0057"
+  },
+  "name": "Dinesh",
+  "email": "dinesh@gmail.com",
+  "password": "$2a$10$20H9Sep3PG0GA2d9thQH2.mebcaCHTN/PztY9EFKaCdlt4ylRJdm.",
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665215600815"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63412eed0d157ec75c2c0059"
+  },
+  "name": "sudheer",
+  "email": "sudheer@gmail.com",
+  "password": "$2a$10$xbOTU8cKXmz75TCs7CPj1OatlUJvQx7iwk2B03HiGemtHCGHz6nEO",
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665216237945"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63413c810e99fea943c5a1a5"
+  },
+  "name": "acer",
+  "email": "CHANDU@gmail.com",
+  "password": "$2a$10$E8nSU1ZbNa9mRNzR1WU/EOUyWuwZOcTrlBJohImjoV8U3fxAJeGUi",
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665219713117"
+    }
+  },
+  "__v": 0
+}]

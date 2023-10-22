@@ -1,0 +1,85 @@
+.item {
+    width: 300px;
+    margin: 2%;
+    padding: 0 0.8rem 0.8rem 0.8rem;
+    background-color: #041c56;
+    border-radius: 30px;
+    text-align: center;
+  }
+  
+  .item img {
+    height: 130px;
+    object-fit: contain;
+  }
+  .item-foot_desc {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff
+  }
+  .item-head_desc p {
+    margin: 0;
+    margin-bottom: 0.5rem;
+    color: #fff
+  }
+  
+  .item-foot_desc button {
+    background: rgb(0, 0, 129);
+    color: #fff;
+    border-radius: 50%;
+  }
+  .item-head_desc {
+    text-align: left;
+    flex: 1;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .head_desc-name {
+    font-weight: 600;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    flex: 1;
+  }
+  .head_desc-info {
+    font-size: 1rem;
+    color: #fff;
+  }
+  .foot_desc-price {
+    font-size: 1.25rem;
+    font-weight: 700;
+  }
+
+  .btnAddRemove {
+    display: flex;
+    align-items: center;
+    width: 70px;
+    justify-content: center;
+    border-radius: 100px;
+    padding: 0.3rem;
+    cursor: pointer;
+    font-size: 0.8rem;
+    background: rgb(0, 3, 82);
+    color: #fff;
+  }
+  .btnAddRemove-positive,
+  .btnAddRemove-negative {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .addcart{
+    display: flex;
+    align-items: center;
+    margin-top: 5%;
+    width: 100%;
+    justify-content: center;
+    border-radius: 100px;
+    padding: 0.3rem;
+    font-size: 0.8rem;
+    background: rgb(8, 0, 82);
+    color: #fff;
+  }
